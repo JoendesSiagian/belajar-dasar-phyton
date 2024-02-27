@@ -1,5 +1,5 @@
 # The art of prompt engineering
-## Author : @ainanazeri
+## Author : @sinanazeri
 ## Mente assignment from IBM Advance AI @ Infinite Learning Course completion of the artof prompt engineering from CognitiveClass.ai
 ## Mente Info 
 ### Name :Joendes H Siagian
